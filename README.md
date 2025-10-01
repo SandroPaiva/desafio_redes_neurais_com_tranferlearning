@@ -89,8 +89,8 @@ Model: "functional_20"
 
 O gráfico abaixo compara a acurácia de validação ao longo das épocas para os dois modelos (azul: CNN do zero; verde: VGG16 com Transfer Learning).
 
-*(Observação: Substitua o texto abaixo pela imagem real do seu gráfico gerado no Colab)*
-`![Comparação de Modelos](caminho/para/sua/imagem_do_grafico.png)`
+<img width="1291" height="393" alt="image" src="https://github.com/user-attachments/assets/731bab90-5a58-494e-b566-dec6254d1f0c" />
+
 
 Fica evidente que a abordagem de Transfer Learning (curva verde) atinge uma acurácia de validação superior e mais estável em comparação com o modelo treinado do zero, que demonstra sinais de sobreajuste (*overfitting*) e dificuldade em aprender com o pequeno conjunto de dados.
 
