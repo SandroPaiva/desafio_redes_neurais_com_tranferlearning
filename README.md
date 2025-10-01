@@ -87,7 +87,7 @@ Model: "functional_20"
 
 ## 📊 Resultados e Comparação
 
-O gráfico abaixo compara a acurácia de validação ao longo das épocas para os dois modelos (azul: CNN do zero; verde: VGG16 com Transfer Learning).
+O gráfico abaixo compara a acurácia de validação ao longo das épocas para os dois modelos (azul: CNN do zero; laranja: VGG16 com Transfer Learning).
 
 <img width="1291" height="393" alt="image" src="https://github.com/user-attachments/assets/731bab90-5a58-494e-b566-dec6254d1f0c" />
 
